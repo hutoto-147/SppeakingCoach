@@ -1,0 +1,533 @@
+{
+  "schemaVersion": 1,
+  "lessons": [
+    {
+      "id": 1,
+      "title": "Starting Meaningful Conversations",
+      "level": "B2 → C1",
+      "subtitle": "شروع مکالمه و ادامه‌دادن گفتگو به‌شکل طبیعی",
+      "goal": "با سؤال‌های باز، مکالمه را از احوال‌پرسی ساده فراتر ببر.",
+      "conversation": "Alex: How have things been going on your end lately?\nSam: Pretty well, actually. I've been trying to strike a better balance between work and free time.\nAlex: That sounds worthwhile. What prompted that change?\nSam: I realized I was constantly checking emails, even during dinner.\nAlex: I can relate to that. Has anything made a noticeable difference?\nSam: Setting clearer boundaries has helped more than I expected.",
+      "phrases": [
+        {
+          "en": "How have things been going on your end?",
+          "fa": "اوضاع از طرف تو چطور پیش می‌رود؟",
+          "example": "How have things been going on your end since the move?"
+        },
+        {
+          "en": "What prompted that change?",
+          "fa": "چه چیزی باعث این تغییر شد؟",
+          "example": "What prompted that change in your priorities?"
+        },
+        {
+          "en": "I can relate to that.",
+          "fa": "کاملاً می‌توانم با این موضوع هم‌ذات‌پنداری کنم.",
+          "example": "I can relate to that; I used to feel the same way."
+        },
+        {
+          "en": "make a noticeable difference",
+          "fa": "تفاوت محسوسی ایجاد کردن",
+          "example": "A small daily habit can make a noticeable difference."
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "What is one habit you have changed recently, and why?",
+          "tip": "دلیل تغییر و نتیجه‌اش را با دو یا سه جمله بگو."
+        },
+        {
+          "prompt": "How do you usually keep a conversation going with someone new?",
+          "tip": "دو سؤال باز مثال بزن."
+        },
+        {
+          "prompt": "Describe a change in your daily routine that made a noticeable difference.",
+          "tip": "از because، although یا however استفاده کن."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Handling Work Meetings",
+      "level": "B2 → C1",
+      "subtitle": "بیان نظر، شفاف‌سازی و جمع‌بندی جلسه",
+      "goal": "در جلسه کاری مودبانه نظر بده و قدم بعدی را روشن کن.",
+      "conversation": "Maya: Before we move on, could we clarify the main objective?\nNoah: Absolutely. We want to reduce response times without compromising quality.\nMaya: That makes sense. From my perspective, we should test the new process with a small team first.\nNoah: I see your point. What would that involve in practice?\nMaya: A two-week trial, followed by feedback from the people involved.\nNoah: Great. Let's agree on the next steps before we wrap up.",
+      "phrases": [
+        {
+          "en": "Before we move on, ...",
+          "fa": "پیش از اینکه ادامه بدهیم، ...",
+          "example": "Before we move on, can I raise one concern?"
+        },
+        {
+          "en": "From my perspective, ...",
+          "fa": "از دیدگاه من، ...",
+          "example": "From my perspective, the deadline is too ambitious."
+        },
+        {
+          "en": "What would that involve in practice?",
+          "fa": "این در عمل شامل چه چیزهایی می‌شود؟",
+          "example": "What would that involve in practice for our team?"
+        },
+        {
+          "en": "wrap up",
+          "fa": "جمع‌بندی یا تمام‌کردن",
+          "example": "Let’s wrap up by assigning responsibilities."
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Suggest a small change that could make meetings more effective.",
+          "tip": "پیشنهاد + دلیل + نتیجه مورد انتظار."
+        },
+        {
+          "prompt": "Ask a colleague to clarify a confusing point politely.",
+          "tip": "از Could you clarify... استفاده کن."
+        },
+        {
+          "prompt": "Summarize the next steps after a project meeting.",
+          "tip": "دو اقدام و مسئول هرکدام را مشخص کن."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Disagreeing Diplomatically",
+      "level": "B2 → C1",
+      "subtitle": "مخالفت محترمانه و ساخت استدلال",
+      "goal": "مخالفت کن بدون اینکه رابطه را تخریب کنی.",
+      "conversation": "Lee: I think we should launch everything at once.\nJordan: I can see where you're coming from, but I'm not entirely convinced.\nLee: What's your main concern?\nJordan: If we release all the features together, it may be harder to identify problems.\nLee: That's a fair point. What would you suggest instead?\nJordan: A phased launch might be a more practical approach.\nLee: I'm open to that, provided we keep the overall deadline in mind.",
+      "phrases": [
+        {
+          "en": "I can see where you’re coming from.",
+          "fa": "دیدگاهت را درک می‌کنم.",
+          "example": "I can see where you’re coming from, although I see it differently."
+        },
+        {
+          "en": "I’m not entirely convinced.",
+          "fa": "هنوز کاملاً متقاعد نشده‌ام.",
+          "example": "I’m not entirely convinced that this is the best option."
+        },
+        {
+          "en": "That’s a fair point.",
+          "fa": "نکته منصفانه و قابل قبولی است.",
+          "example": "That’s a fair point; we should consider the cost."
+        },
+        {
+          "en": "provided that ...",
+          "fa": "به شرط اینکه ...",
+          "example": "I agree, provided that we review the results monthly."
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "A friend says online learning is always better than classroom learning. Disagree politely.",
+          "tip": "ابتدا نظرش را درک کن، بعد دلیل مخالف بیاور."
+        },
+        {
+          "prompt": "Explain why rushing a decision can be risky.",
+          "tip": "یک مثال واقعی یا فرضی ارائه کن."
+        },
+        {
+          "prompt": "Find a compromise between speed and quality.",
+          "tip": "از provided that یا as long as استفاده کن."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Travel Problems and Solutions",
+      "level": "B2 → C1",
+      "subtitle": "مدیریت مشکل سفر و درخواست کمک",
+      "goal": "مشکل را دقیق توضیح بده و راه‌حل بخواه.",
+      "conversation": "Traveler: Excuse me, I believe my luggage was sent to the wrong destination.\nAgent: I'm sorry to hear that. Could you give me your baggage reference number?\nTraveler: Certainly. I'd appreciate it if you could tell me what happens next.\nAgent: We'll track it and arrange delivery as soon as possible.\nTraveler: Is there a realistic estimate for when it might arrive?\nAgent: We expect an update within twenty-four hours.\nTraveler: Thank you. Could you keep me informed if anything changes?",
+      "phrases": [
+        {
+          "en": "I believe there has been a mix-up.",
+          "fa": "فکر می‌کنم اشتباهی رخ داده است.",
+          "example": "I believe there has been a mix-up with my reservation."
+        },
+        {
+          "en": "I’d appreciate it if you could ...",
+          "fa": "ممنون می‌شوم اگر بتوانید ...",
+          "example": "I’d appreciate it if you could check the details."
+        },
+        {
+          "en": "a realistic estimate",
+          "fa": "برآورد واقع‌بینانه",
+          "example": "Could you give me a realistic estimate of the delay?"
+        },
+        {
+          "en": "keep me informed",
+          "fa": "مرا در جریان بگذارید",
+          "example": "Please keep me informed of any updates."
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Your flight has been cancelled. Ask for practical alternatives.",
+          "tip": "مشکل را بگو، گزینه‌ها و زمان‌بندی را بپرس."
+        },
+        {
+          "prompt": "A hotel has given you the wrong room type. Explain the issue politely.",
+          "tip": "از I believe there has been a mix-up استفاده کن."
+        },
+        {
+          "prompt": "Ask for an update about delayed luggage without sounding rude.",
+          "tip": "از I’d appreciate it if you could... استفاده کن."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Telling a Compelling Story",
+      "level": "B2 → C1",
+      "subtitle": "داستان‌گویی همراه با جزئیات و نتیجه",
+      "goal": "روایت را با زمینه، اتفاق، واکنش و نتیجه سازمان‌دهی کن.",
+      "conversation": "Nina: Have I ever told you about the time I missed my train in a foreign city?\nOmar: No, what happened?\nNina: At first, I panicked because my phone battery was almost dead. To make matters worse, I didn't speak the local language.\nOmar: That sounds stressful.\nNina: Surprisingly, a stranger offered to help me find a different route.\nOmar: So it worked out in the end?\nNina: It did. Looking back, it taught me to stay calm and ask for help.",
+      "phrases": [
+        {
+          "en": "To make matters worse, ...",
+          "fa": "بدتر اینکه ...",
+          "example": "To make matters worse, it started raining heavily."
+        },
+        {
+          "en": "Much to my surprise, ...",
+          "fa": "برخلاف انتظارم ...",
+          "example": "Much to my surprise, the interview went smoothly."
+        },
+        {
+          "en": "Looking back, ...",
+          "fa": "وقتی به گذشته نگاه می‌کنم ...",
+          "example": "Looking back, I should have prepared more carefully."
+        },
+        {
+          "en": "It turned out that ...",
+          "fa": "معلوم شد که ...",
+          "example": "It turned out that we had the wrong address."
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Tell a story about a time when your plans went wrong.",
+          "tip": "ابتدا موقعیت، سپس مشکل و سرانجام نتیجه را بگو."
+        },
+        {
+          "prompt": "Describe an unexpected act of kindness you have seen.",
+          "tip": "از Much to my surprise استفاده کن."
+        },
+        {
+          "prompt": "Share a mistake that taught you something important.",
+          "tip": "در پایان از Looking back استفاده کن."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Job Interviews with Confidence",
+      "level": "B2 → C1",
+      "subtitle": "معرفی توانایی‌ها با مثال و اعتمادبه‌نفس",
+      "goal": "به پرسش‌های مصاحبه ساختارمند و طبیعی پاسخ بده.",
+      "conversation": "Interviewer: Tell me about a challenge you've faced at work or during a project.\nCandidate: Certainly. In a recent project, we had a very tight deadline and limited resources.\nInterviewer: How did you handle it?\nCandidate: I broke the task into smaller priorities and kept everyone updated.\nInterviewer: What was the outcome?\nCandidate: We delivered the essential features on time. More importantly, the experience strengthened my ability to make decisions under pressure.",
+      "phrases": [
+        {
+          "en": "One of my key strengths is ...",
+          "fa": "یکی از نقاط قوت اصلی من ... است.",
+          "example": "One of my key strengths is staying calm under pressure."
+        },
+        {
+          "en": "What I learned from that experience was ...",
+          "fa": "چیزی که از آن تجربه یاد گرفتم ...",
+          "example": "What I learned from that experience was the value of teamwork."
+        },
+        {
+          "en": "I took the initiative to ...",
+          "fa": "پیش‌قدم شدم تا ...",
+          "example": "I took the initiative to improve the workflow."
+        },
+        {
+          "en": "The outcome was ...",
+          "fa": "نتیجه این بود که ...",
+          "example": "The outcome was a faster, more reliable process."
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Tell me about yourself and your main strengths.",
+          "tip": "ساختار: معرفی کوتاه، توانایی، یک مثال."
+        },
+        {
+          "prompt": "Describe a difficult situation and how you solved it.",
+          "tip": "از Situation–Action–Result استفاده کن."
+        },
+        {
+          "prompt": "Why would you be a good fit for this role?",
+          "tip": "به یک نیاز شغل و یک توانایی خودت اشاره کن."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Discussing Technology and AI",
+      "level": "B2 → C1",
+      "subtitle": "بررسی فرصت‌ها و محدودیت‌های فناوری",
+      "goal": "فواید و ریسک‌ها را با دیدی متعادل توضیح بده.",
+      "conversation": "Ava: Do you think AI will fundamentally change how we learn languages?\nBen: To a certain extent, yes. It can offer immediate feedback and personalized practice.\nAva: But couldn't learners become overly dependent on it?\nBen: That's a legitimate concern. Technology should complement human interaction rather than replace it.\nAva: So you would use it selectively?\nBen: Exactly. The key is to strike a balance between convenience and genuine communication.",
+      "phrases": [
+        {
+          "en": "To a certain extent, ...",
+          "fa": "تا حدی ...",
+          "example": "To a certain extent, technology improves accessibility."
+        },
+        {
+          "en": "That’s a legitimate concern.",
+          "fa": "این نگرانی معتبری است.",
+          "example": "That’s a legitimate concern, especially regarding privacy."
+        },
+        {
+          "en": "complement rather than replace",
+          "fa": "تکمیل کردن، نه جایگزین شدن",
+          "example": "AI should complement rather than replace human judgment."
+        },
+        {
+          "en": "strike a balance between ... and ...",
+          "fa": "تعادل برقرارکردن بین ... و ...",
+          "example": "We need to strike a balance between speed and accuracy."
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "How could AI improve language learning without replacing teachers?",
+          "tip": "دست‌کم یک فایده و یک محدودیت بگو."
+        },
+        {
+          "prompt": "Should people trust AI-generated information?",
+          "tip": "پاسخی متعادل با on the one hand / on the other hand بده."
+        },
+        {
+          "prompt": "What is one technology you would choose to use less often?",
+          "tip": "دلایل و جایگزین عملی پیشنهاد کن."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Making and Defending Opinions",
+      "level": "B2 → C1",
+      "subtitle": "نظر دادن در موضوعات پیچیده",
+      "goal": "نظر خود را با دلیل، مثال و شرط روشن کن.",
+      "conversation": "Daria: Should companies allow employees to work remotely all the time?\nEli: Broadly speaking, remote work can improve flexibility.\nDaria: So you're in favor of it?\nEli: On balance, yes, although it depends on the role and the team.\nDaria: What about collaboration?\nEli: That's where a hybrid arrangement may be preferable. Ultimately, the goal should be better outcomes, not simply fewer office hours.",
+      "phrases": [
+        {
+          "en": "Broadly speaking, ...",
+          "fa": "به‌طور کلی ...",
+          "example": "Broadly speaking, flexible work benefits many employees."
+        },
+        {
+          "en": "On balance, ...",
+          "fa": "با درنظرگرفتن همه جوانب ...",
+          "example": "On balance, I think the advantages outweigh the drawbacks."
+        },
+        {
+          "en": "That depends largely on ...",
+          "fa": "این تا حد زیادی بستگی دارد به ...",
+          "example": "That depends largely on the nature of the task."
+        },
+        {
+          "en": "Ultimately, ...",
+          "fa": "در نهایت ...",
+          "example": "Ultimately, long-term results matter more than short-term gains."
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Should students be allowed to use phones in class?",
+          "tip": "نظر + یک دلیل + استثنا."
+        },
+        {
+          "prompt": "Is working from home better than working in an office?",
+          "tip": "دو طرف بحث را بررسی کن."
+        },
+        {
+          "prompt": "Should cities invest more in parks or roads?",
+          "tip": "یک انتخاب کن و با یک مثال از آن دفاع کن."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Negotiating and Compromising",
+      "level": "B2 → C1",
+      "subtitle": "چانه‌زنی و رسیدن به توافق",
+      "goal": "درخواست، محدودیت و پیشنهاد جایگزین را شفاف بیان کن.",
+      "conversation": "Client: We would like the project completed by Friday.\nDeveloper: I understand the urgency. However, that timeline could affect quality.\nClient: Is there any flexibility on your side?\nDeveloper: We could deliver the core functionality by Friday, provided the additional features move to next week.\nClient: That sounds reasonable. Can you put the revised plan in writing?\nDeveloper: Of course. I'll send a breakdown of the milestones this afternoon.",
+      "phrases": [
+        {
+          "en": "I understand the urgency.",
+          "fa": "فوریت موضوع را درک می‌کنم.",
+          "example": "I understand the urgency, but we need time to test."
+        },
+        {
+          "en": "Is there any flexibility on ...?",
+          "fa": "آیا در مورد ... انعطافی وجود دارد؟",
+          "example": "Is there any flexibility on the deadline?"
+        },
+        {
+          "en": "We could meet halfway.",
+          "fa": "می‌توانیم به توافق میانه برسیم.",
+          "example": "We could meet halfway and split the extra cost."
+        },
+        {
+          "en": "provided that ...",
+          "fa": "به شرط اینکه ...",
+          "example": "We can agree, provided that the scope remains fixed."
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "Negotiate a deadline that seems unrealistic.",
+          "tip": "با احترام نگرانی را مطرح و پیشنهاد جایگزین ارائه کن."
+        },
+        {
+          "prompt": "Ask for a discount without sounding demanding.",
+          "tip": "از Is there any flexibility on... استفاده کن."
+        },
+        {
+          "prompt": "Suggest a compromise between two colleagues.",
+          "tip": "منافع هر دو طرف را در نظر بگیر."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Responding to Complaints",
+      "level": "B2 → C1",
+      "subtitle": "پاسخ حرفه‌ای به نارضایتی",
+      "goal": "همدلی نشان بده، مسئله را روشن و راه‌حل را مشخص کن.",
+      "conversation": "Customer: I've contacted support twice, but the issue still hasn't been resolved.\nAgent: I understand how frustrating that must be, and I'm sorry for the inconvenience.\nCustomer: What can you do about it?\nAgent: Let me look into the details and see what went wrong.\nCustomer: I'd like a clear timeframe this time.\nAgent: That's completely reasonable. I'll follow up by tomorrow with a specific update.",
+      "phrases": [
+        {
+          "en": "I understand how frustrating that must be.",
+          "fa": "درک می‌کنم که چقدر آزاردهنده است.",
+          "example": "I understand how frustrating that must be after two delays."
+        },
+        {
+          "en": "Let me look into that.",
+          "fa": "اجازه بدهید بررسی کنم.",
+          "example": "Let me look into that and get back to you."
+        },
+        {
+          "en": "I appreciate you bringing this to my attention.",
+          "fa": "ممنون که این موضوع را اطلاع دادید.",
+          "example": "I appreciate you bringing this to my attention."
+        },
+        {
+          "en": "I’ll follow up by ...",
+          "fa": "تا ... پیگیری خواهم کرد.",
+          "example": "I’ll follow up by Monday with an update."
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "A customer says an order arrived damaged. Respond professionally.",
+          "tip": "همدلی + بررسی + اقدام بعدی."
+        },
+        {
+          "prompt": "You received poor service at a café. Make a polite complaint.",
+          "tip": "مسئله و انتظار منطقی خود را بیان کن."
+        },
+        {
+          "prompt": "A teammate complains about delayed feedback. Reply constructively.",
+          "tip": "مسئولیت‌پذیری و زمان پیگیری را نشان بده."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Media and Current Affairs",
+      "level": "B2 → C1",
+      "subtitle": "بحث متعادل درباره خبر و رسانه",
+      "goal": "منبع، شواهد و عدم قطعیت را در گفتگو وارد کن.",
+      "conversation": "Mina: I saw a headline claiming that social media is ruining attention spans.\nTheo: That sounds a bit sweeping. Do you know what evidence the article relied on?\nMina: Not really. I only read the headline.\nTheo: Then I'd reserve judgment until we look at the actual study.\nMina: Fair enough. Even so, it raises an interesting question about our habits.\nTheo: Absolutely. We can discuss the concern without assuming the claim is entirely accurate.",
+      "phrases": [
+        {
+          "en": "That sounds a bit sweeping.",
+          "fa": "این ادعا کمی کلی‌گویانه به نظر می‌رسد.",
+          "example": "That sounds a bit sweeping; experiences vary widely."
+        },
+        {
+          "en": "What evidence supports that claim?",
+          "fa": "چه شواهدی آن ادعا را پشتیبانی می‌کند؟",
+          "example": "What evidence supports that claim about screen time?"
+        },
+        {
+          "en": "I’d reserve judgment until ...",
+          "fa": "تا زمانی که ... قضاوت نمی‌کنم.",
+          "example": "I’d reserve judgment until I read the full report."
+        },
+        {
+          "en": "It raises an interesting question.",
+          "fa": "این پرسش جالبی را مطرح می‌کند.",
+          "example": "It raises an interesting question about public trust."
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "How do you decide whether an online article is trustworthy?",
+          "tip": "منبع، تاریخ و شواهد را توضیح بده."
+        },
+        {
+          "prompt": "Discuss whether social media helps or harms public discussion.",
+          "tip": "با یک مثال و یک استثنا."
+        },
+        {
+          "prompt": "What should people do before sharing a surprising headline?",
+          "tip": "دو اقدام عملی پیشنهاد کن."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Reflecting on Personal Growth",
+      "level": "B2 → C1",
+      "subtitle": "صحبت درباره پیشرفت، هدف و برنامه آینده",
+      "goal": "درباره تغییرات زندگی با ظرافت، مثال و نگاه به آینده حرف بزن.",
+      "conversation": "Rosa: What's something you've become better at over the past year?\nKai: I've grown more comfortable speaking up, even when I'm unsure of myself.\nRosa: What helped you make that progress?\nKai: Consistent practice, mostly. I also stopped expecting every conversation to be perfect.\nRosa: Has that changed how you approach challenges?\nKai: Definitely. I'm more willing to take calculated risks and learn as I go.\nRosa: That's a mindset worth holding on to.",
+      "phrases": [
+        {
+          "en": "I’ve grown more comfortable with ...",
+          "fa": "در ... راحت‌تر و مسلط‌تر شده‌ام.",
+          "example": "I’ve grown more comfortable with expressing my views."
+        },
+        {
+          "en": "It took me a while to realize ...",
+          "fa": "مدتی طول کشید تا بفهمم ...",
+          "example": "It took me a while to realize that mistakes are useful."
+        },
+        {
+          "en": "take calculated risks",
+          "fa": "ریسک‌های سنجیده پذیرفتن",
+          "example": "Learning a new skill often requires calculated risks."
+        },
+        {
+          "en": "learn as I go",
+          "fa": "هم‌زمان با پیش‌رفتن یاد بگیرم",
+          "example": "I don’t know everything yet, but I’ll learn as I go."
+        }
+      ],
+      "questions": [
+        {
+          "prompt": "How have your priorities changed in the last two years?",
+          "tip": "گذشته و حال را مقایسه کن."
+        },
+        {
+          "prompt": "Describe a skill you developed through consistent practice.",
+          "tip": "مانع، تلاش، نتیجه."
+        },
+        {
+          "prompt": "What would you like to be able to do confidently next year?",
+          "tip": "هدف روشن و گام‌های عملی بگو."
+        }
+      ]
+    }
+  ]
+}
