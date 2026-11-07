@@ -73,7 +73,7 @@ final class Ui {
     static Button button(Activity a, String title, boolean primary) {
         Button b = new Button(a);
         b.setText(title);
-        b.setTextAllCaps(false);
+        b.setAllCaps(false);
         b.setTextSize(14);
         b.setTypeface(Typeface.DEFAULT, Typeface.BOLD);
         b.setTextColor(primary ? WHITE : NAVY);
